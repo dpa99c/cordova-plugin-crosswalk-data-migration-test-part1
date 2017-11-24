@@ -4,7 +4,17 @@ Cordova Crosswalk Data Migration Plugin - Part 1
 
 Part 1 of the example app to demonstrate/validate the [Crosswalk Data Migration Plugin](https://github.com/dpa99c/cordova-plugin-crosswalk-data-migration).
 
-See the [plugin documentation](https://github.com/dpa99c/cordova-plugin-crosswalk-data-migration#example-app) for details. 
+See also [part 2](https://github.com/dpa99c/cordova-plugin-crosswalk-data-migration-test-part2) of the test app.
+
+See the [plugin documentation](https://github.com/dpa99c/cordova-plugin-crosswalk-data-migration#example-app) for details.
+
+This part contains the Crosswalk plugin but not the Migration plugin.
+ 
+The pre-built APKs are here:
+ 
+- [ARMv7](https://github.com/dpa99c/cordova-plugin-crosswalk-data-migration-test-part1/build/crosswalk-data-migration-test-part-1-armv7.apk)
+- [x86](https://github.com/dpa99c/cordova-plugin-crosswalk-data-migration-test-part1/build/crosswalk-data-migration-test-part-1-x86.apk)
+
 
 # License
 ================
